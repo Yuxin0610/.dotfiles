@@ -1,6 +1,7 @@
 1. Install iterm2
 2. Install JetBrains Mono Fonts.
-3. Import JSON file.
+3. Install "Onedark" color theme.
+4. Import JSON file.
 
 Trouble Shooting:
 
